@@ -1,0 +1,37 @@
+* {
+	font-family: "Ubuntu";
+	font-size: medium;
+}
+body {
+	background: black;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+
+	width: 400px;
+	height: 50px;
+}
+.tittle {
+	width: 350px;
+	height: 50px;
+	margin-left: 0%;
+	margin-top: 0%;
+	margin-right: 0%;
+}
+.postcard-body {
+	display: flex;
+}
+.postcard-footer {
+	text-align: center;
+}
+.button {
+	background-color: gray;
+	border-color: gray;
+	font-family: "comicsans";
+}
